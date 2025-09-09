@@ -1,0 +1,4 @@
+calcular_pesos/calcular_pesos.json
+consultas/queries.txt
+5
+stopwords.txt
